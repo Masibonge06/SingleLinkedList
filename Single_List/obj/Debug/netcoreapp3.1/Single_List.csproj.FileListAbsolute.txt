@@ -1,0 +1,43 @@
+C:\Users\lab_services_student\source\repos\Single_List\bin\Debug\netcoreapp3.1\Single_List.exe
+C:\Users\lab_services_student\source\repos\Single_List\bin\Debug\netcoreapp3.1\Single_List.deps.json
+C:\Users\lab_services_student\source\repos\Single_List\bin\Debug\netcoreapp3.1\Single_List.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\Single_List\bin\Debug\netcoreapp3.1\Single_List.runtimeconfig.dev.json
+C:\Users\lab_services_student\source\repos\Single_List\bin\Debug\netcoreapp3.1\Single_List.dll
+C:\Users\lab_services_student\source\repos\Single_List\bin\Debug\netcoreapp3.1\Single_List.pdb
+C:\Users\lab_services_student\source\repos\Single_List\obj\Debug\netcoreapp3.1\Single_List.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\Single_List\obj\Debug\netcoreapp3.1\Single_List.Form1.resources
+C:\Users\lab_services_student\source\repos\Single_List\obj\Debug\netcoreapp3.1\Single_List.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\Single_List\obj\Debug\netcoreapp3.1\Single_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\Single_List\obj\Debug\netcoreapp3.1\Single_List.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\Single_List\obj\Debug\netcoreapp3.1\Single_List.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\Single_List\obj\Debug\netcoreapp3.1\Single_List.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\Single_List\obj\Debug\netcoreapp3.1\Single_List.dll
+C:\Users\lab_services_student\source\repos\Single_List\obj\Debug\netcoreapp3.1\Single_List.pdb
+C:\Users\lab_services_student\source\repos\Single_List\obj\Debug\netcoreapp3.1\Single_List.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\Single_List\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\lab_services_student\source\repos\Single_List\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\lab_services_student\source\repos\Single_List\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\lab_services_student\source\repos\Single_List\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\lab_services_student\source\repos\Single_List\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\lab_services_student\source\repos\Single_List\obj\Debug\netcoreapp3.1\Single_List.csproj.CopyComplete
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\bin\Debug\netcoreapp3.1\Single_List.exe
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\bin\Debug\netcoreapp3.1\Single_List.deps.json
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\bin\Debug\netcoreapp3.1\Single_List.runtimeconfig.json
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\bin\Debug\netcoreapp3.1\Single_List.runtimeconfig.dev.json
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\bin\Debug\netcoreapp3.1\Single_List.dll
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\bin\Debug\netcoreapp3.1\Single_List.pdb
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\obj\Debug\netcoreapp3.1\Single_List.csprojAssemblyReference.cache
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\obj\Debug\netcoreapp3.1\Single_List.Form1.resources
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\obj\Debug\netcoreapp3.1\Single_List.csproj.GenerateResource.cache
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\obj\Debug\netcoreapp3.1\Single_List.AssemblyInfoInputs.cache
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\obj\Debug\netcoreapp3.1\Single_List.AssemblyInfo.cs
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\obj\Debug\netcoreapp3.1\Single_List.csproj.CoreCompileInputs.cache
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\obj\Debug\netcoreapp3.1\Single_List.csproj.CopyComplete
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\obj\Debug\netcoreapp3.1\Single_List.dll
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\obj\Debug\netcoreapp3.1\Single_List.pdb
+C:\Users\Masibonge Khumalo\source\repos\Single_List\Single_List\obj\Debug\netcoreapp3.1\Single_List.genruntimeconfig.cache

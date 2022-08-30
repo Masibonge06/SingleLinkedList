@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m+KaBPWy8/iweXT25tnXZgldVMeCkYHpeEw/rt/ZHIoKT89jfhRL6ZL5zMQLSB38FJnh548YC428KuCbOJFPMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Masibonge Khumalo\\source\\repos\\Single_List\\Single_List\\Single_List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Masibonge Khumalo\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\Masibonge Khumalo\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\Masibonge Khumalo\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Masibonge Khumalo\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
